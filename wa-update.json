@@ -1,10 +1,10 @@
 {
-  "version": "6.0",
+  "version": "7.0",
   "download": "https://moazzamworkspace.blogspot.com/2022/07/whatsapp.html",
   "update": [
     {
       "languaje": "en",
-      "changelog": "https://moazzamworkspace.github.io/files/wa-changelog.html"
+      "changelog": "https://raw.githubusercontent.com/moazammods/files/main/wa-changelog.html"
     }
   ]
 }
